@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 配置文件（包含敏感信息）
+config.json
+.env
+*.local.py
+
+# 标记计划（可能包含敏感文档 ID）
+mark_plan.json
+mark_plan_v2.json
+test_plan.json
+
+# 日志
+*.log
+
+# macOS
+.DS_Store

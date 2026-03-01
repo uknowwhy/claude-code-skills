@@ -1,0 +1,13 @@
+[
+  {
+    "block_id": "你的 block_id",
+    "mode": "segments",
+    "segments": ["需要标记的文本片段 1", "需要标记的文本片段 2"],
+    "reason": "标记原因说明"
+  },
+  {
+    "block_id": "另一个 block_id",
+    "mode": "full",
+    "reason": "整段都需要标记"
+  }
+]
